@@ -1,0 +1,41 @@
+basic  tags
+---------------
+ br tag: break tag in html to breake the line explicitly break tag a single tag.
+
+hr: hr tag in html is used to insert a horizontal rile in ui hr tag is a single tag.
+
+
+Scrolling data: marque tag is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
